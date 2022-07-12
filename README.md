@@ -21,6 +21,6 @@ Per realizzare tale progetto basta utilizzare i seguenti componenti:
 Vari jumper
 1x Breadboard
 Il diagramma di collegamento è il seguente:
-[! alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/05/Untitled-Sketch-2_bb.png?resize=768%2C606&ssl=1)
+![ alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/05/Untitled-Sketch-2_bb.png?resize=768%2C606&ssl=1)
 
 La funzione tone() permette di generare il suono tramite il cicalino passivo. Vi sono tre parametri formali, il primo parametro costituisce il pin in cui è collegato il cicalino, il secondo parametro è costituito dal vettore note (lo spartito) e dalle relative frequenze, il terzo parametro è costituito dal periodo durante il quale verrà prodotto ciascun suono. Inoltre è stato utilizzata una funzione random per l’accensione e spegnimento dei LED per rendere il progetto più coinvolgente per il festeggiato.
